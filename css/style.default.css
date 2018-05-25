@@ -795,6 +795,9 @@ FOOTER
 #footer p.social a.instagram {
   background-color: #cd4378;
 }
+#footer p.social a.github {
+  font-size: 52px;
+}
 #footer p.social a.email {
   background-color: #4a7f45;
 }
