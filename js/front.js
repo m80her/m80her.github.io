@@ -139,7 +139,7 @@ function sliders() {
 	});
 	$(".testimonials").owlCarousel({
 	    items: 3,
-	    itemsDesktopSmall: [1170, 2],
+	    itemsDesktopSmall: [1200, 2],
 	    itemsTablet: [970, 2],
 	    itemsMobile: [750, 1]
 	});
